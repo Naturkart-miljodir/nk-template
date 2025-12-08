@@ -1,5 +1,4 @@
 // Local VS Code Extension Recommendations
-// Not used by Devcontainer instead recommendations are listed in .devcontainer/devcontainer.json
 {
   "recommendations": [
     // Python extensions
