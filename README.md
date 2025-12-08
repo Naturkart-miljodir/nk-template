@@ -62,7 +62,7 @@ Please fill out this README.md template folowing the instructions (view raw file
 ## Getting Started
 <!-- MANDATORY: Provide instructions for getting started with the project here. -->
 
-### Installation 
+### Installation
 <!-- MANDATORY: Provide installation instructions here.
 e.g. pip install <package-name> developed by this project -->
 
@@ -75,7 +75,7 @@ e.g. pip install <package-name> developed by this project -->
 ### Setup
 <!-- MANDATORY: Provide instructions for setting up a development environment here. -->
 
-### Development Workflow 
+### Development Workflow
 <!-- OPTIONAL: Provide instructions for the typical development workflow here. Otherwise remove -->
 
 ### Code Quality Standards
