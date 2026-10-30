@@ -1,2 +1,23 @@
-* text=auto
-*.csv filter=lfs diff=lfs merge=lfs -text
+# Contributor note (set once per machine):
+#   git config --global core.autocrlf false
+#   git config --global core.safecrlf warn
+# This repository normalizes line endings via .gitattributes.
+
+# Normalize line endings across platforms.
+* text=auto eol=lf
+
+# Windows-native scripts should keep CRLF.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Common binary formats.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.pdf binary
+*.pfx binary
+*.p12 binary
+*.ico binary
