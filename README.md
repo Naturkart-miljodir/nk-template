@@ -1,35 +1,39 @@
 # nk-template | Template repository for Naturkart repositories
-<!-- PLEASE fill out this README template in english. 
-For an example see: https://github.com/Naturkart-miljodir/nk-uv-demo 
+
+<!-- PLEASE fill out this README template in english.
+For an example see: https://github.com/Naturkart-miljodir/nk-uv-demo
 Replace title with format: "<repo-name> | <Project Full Name in English>" -->
 
-<!-- LICENSE BADGES: Update or add badges below as needed. 
+<!-- LICENSE BADGES: Update or add badges below as needed.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Please fill out this README.md template folowing the instructions (view raw file to see comments). Remove all instructions and comments when done.
 
-**Norwegian Title:**  <!-- MANDATORY: Full project name in Norwegian -->
+**Norwegian Title:** _MANDATORY: Full project name in Norwegian_
 **Project Owner:** Norwegian Environment Agency (NEA)  
-**Contractor:** <!-- MANDATORY: Name of contractor organization(s) -->
-**Delivery date:** <!-- MANDATORY: Date of project delivery -->  
-**Repository Purpose:** <!-- MANDATORY: Short description of the purpose of this repository -->
+**Contractor:** _Name of contractor organization(s)_
+**Delivery date:** _Date of project delivery_  
+**Repository Purpose:** _Short description of the purpose of this repository_
 
 ---
 
 **Table of Contents**
+
 <!-- AUTO-GENERATED TOC: Update this table of contents by the vscode-extension "yzhang.markdown-all-in-one" -->
 
-1. [Project Overview](#project-overview)
-2. [Getting Started](#getting-started)
-3. [Development](#development)
-4. [Documentation](#documentation)
-5. [License](#license)
+- [Project Overview](#project-overview)
+- [Getting Started](#getting-started)
+- [Development Workflow](#development-workflow)
+- [Documentation](#documentation)
+- [License](#license)
 
 ## Project Overview
 
-**English:** <!-- MANDATORY: Provide an abstract/summary of the project here in English. -->
+**English:**
 
-**Norwegian:** *<!-- MANDATORY: Provide an abstract/summary of the project here in Norwegian. -->*
+**Norwegian:**
 
 ---
 
@@ -39,57 +43,46 @@ Please fill out this README.md template folowing the instructions (view raw file
 - <...>
 
 ### Resulting Products
-<!-- MANDATORY: List the main resulting datasetts, applications, or other products resulting from this project. -->
+
+_List the main resulting datasetts, applications, or other products resulting from this project._
 
 | Product | Description | URL |
-|---------|-------------|-----|
-| <...> | <...> | <!-- FILLED OUT BY NEA: Link to product once published by NEA will be added here --> |
+| ------- | ----------- | --- |
+|         |             |     |
 
 ### Repository Structure
-<!-- MANDATORY: Provide an overview of the repository structure here. -->
 
-### Docker Configuration
-<!-- OPTIONAL: If applicable, provide details about Docker configuration here. Otherwise remove -->
+_Provide an overview of the repository structure here._
 
-### Workflow Statuses
-<!-- OPTIONAL: Add any relevant workflow status badges to this table.  -->
-
-| Job | Status | Description |
-|-----|--------|-------------|
-| **Security Scan - CodeQL** | <Add status shield here> | Security analysis for <language-name> |
-| **Dependabot** |  | Automated dependency updates |
+```text
+nk-template/
+├── src/
+├── LICENSE
+└── README.md
+```
 
 ## Getting Started
-<!-- MANDATORY: Provide instructions for getting started with the project here. -->
 
-### Installation
-<!-- MANDATORY: Provide installation instructions here.
-e.g. pip install <package-name> developed by this project -->
-
-## Development
-<!-- MANDATORY: Provide instructions for setting up a development environment here. -->
+_Provide instructions for getting started with the project here._
 
 ### Prerequisites
-<!-- MANDATORY: List any prerequisites for development here. -->
 
-### Setup
-<!-- MANDATORY: Provide instructions for setting up a development environment here. -->
+_List any prerequisites for development here._
 
-### Development Workflow
-<!-- OPTIONAL: Provide instructions for the typical development workflow here. Otherwise remove -->
+### Installation
 
-### Code Quality Standards
-<!-- OPTIONAL: Provide details about code quality standards here. Otherwise remove -->
+_Provide installation instructions here._
 
-### GHA Workflows
-<!-- Provide details about GitHub Actions workflows here. Otherwise remove -->
+## Development Workflow
+
+_Provide instructions for the typical development workflow here._
 
 ## Documentation
-<!-- OPTIONAL: Provide details about documentation here. Otherwise remove -->
+
+_Provide details about documentation here or refer to the /docs directory._
 
 ## License
-<!-- MANDATORY: add a license file and update the badge at the top of this README accordingly. -->
 
-This project is licensed under the <...> License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
