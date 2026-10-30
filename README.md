@@ -1,7 +1,7 @@
 # nk-template | Template repository for Naturkart repositories
 
 <!-- PLEASE fill out this README template in english.
-For an example see: https://github.com/Naturkart-miljodir/nk-uv-demo
+For an example see: https://github.com/miljodirektoratet/uv-demo
 Replace title with format: "<repo-name> | <Project Full Name in English>" -->
 
 <!-- LICENSE BADGES: Update or add badges below as needed.
